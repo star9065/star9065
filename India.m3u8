@@ -1,0 +1,10 @@
+#EXTINF:-1,Discovery World
+http://170.254.18.109/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1,Discovery Science
+http://170.254.18.106/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1,Sony Entertainment
+http://170.254.18.107/SONY/index.m3u8
+#EXTINF:-1,Zee TV
+http://170.254.18.107/ZEE/index.m3u8
+#EXTINF:-1,Enlace
+http://170.254.18.109/ENLACE/index.m3u8
